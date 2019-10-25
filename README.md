@@ -1,4 +1,4 @@
-This assignment was for a Data Structures course taught by Dr. Ramirez.
+This assignment was for a Data Structures course taught by Dr. Ramirez in spring of 2019.
 
  
 
